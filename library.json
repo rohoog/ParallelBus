@@ -1,0 +1,22 @@
+{
+  "name": "ParallelBus",
+  "version": "1.0.0",
+  "description": "Templated parallel bus library for Arduino. Bundle pins into 8/16-bit buses with Arduino-native syntax.",
+  "keywords": "parallel, bus, digitalWrite, digitalRead, pinMode, template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rohoog/ParallelBus.git"
+  },
+  "authors": [
+    {
+      "name": "R. Hoogenboom",
+      "email": "hoogenboom30@zonnet.nl",
+      "url": "https://yourwebsite.com",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rohoog/ParallelBus",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

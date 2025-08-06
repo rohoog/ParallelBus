@@ -1,0 +1,9 @@
+#######################################
+# Syntax Coloring for ParallelBus
+#######################################
+ParallelBus	KEYWORD1
+ParallelBus8	KEYWORD1
+ParallelBus16	KEYWORD1
+digitalWrite	KEYWORD2
+digitalRead	KEYWORD2
+pinMode	KEYWORD2
